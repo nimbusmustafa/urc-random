@@ -1,0 +1,6 @@
+path: /home/mustafa/urc
+train: bottle_sar_train/images
+val: video_val/images
+
+nc: 1
+names: ['bottle']

@@ -1,0 +1,5 @@
+path: /home/mustafa/urc
+train: video/images
+val: video_val/images
+nc: 3
+names: ['artag','bottle','mallet']

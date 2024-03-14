@@ -1,0 +1,6 @@
+path: /home/mustafa/urc
+train: artag_trains/images
+val: artag_val/images
+
+nc: 1
+names: ['artag']
